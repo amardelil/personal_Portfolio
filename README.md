@@ -19,8 +19,6 @@ Here are some previews of the portfolio:
 |:---------------------:|:-----------------:|
 | ![Homepage](images/homepage.png) | ![Projects](images/projects.png) |
 
-*If images don't appear, verify the filenames in your `images/` folder match `homepage.png` and `projects.png` exactly (case‑sensitive).*
-
 ---
 
 ## 🛠️ Technologies Used

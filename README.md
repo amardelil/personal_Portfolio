@@ -1,50 +1,75 @@
 # ✦ Amar Delil – Personal Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/amardelil/personalportfolio)
-![GitHub stars](https://img.shields.io/github/stars/amardelil/personalportfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/amardelil/personalportfolio?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/amardelil/personalportfolio)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[![GitHub last commit](https://img.shields.io/github/last-commit/amardelil/personalportfolio)](https://github.com/amardelil/personalportfolio/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/amardelil/personalportfolio)](https://github.com/amardelil/personalportfolio)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > A modern, fully responsive personal portfolio website built with **HTML5**, **CSS3**, and **vanilla JavaScript**.  
-> Showcases my projects, skills, and professional journey with a clean, interactive interface.
+> Showcases my projects, skills, and contact information with a clean, interactive interface.
 
-🔗 **[View Live Demo](https://amardelil.github.io/personalportfolio)**
+🔗 **[View Live Demo →](https://amardelil.github.io/personalportfolio)**
 
 ---
 
 ## 📸 Screenshots
 
-*Replace the placeholder URLs below with your own screenshots after uploading them to the `images/` folder.*
+Here are some previews of the portfolio:
 
-| Homepage | Projects Section |
-|----------|------------------|
-| ![Homepage](https://raw.githubusercontent.com/amardelil/personalportfolio/main/images/homepage.png) | ![Projects](https://raw.githubusercontent.com/amardelil/personalportfolio/main/images/projects.png) |
-| *Hero section with profile placeholder* | *Project cards with tech tags* |
+| Homepage Hero Section | Projects Showcase |
+|:---------------------:|:-----------------:|
+| ![Homepage](images/homepage.png) | ![Projects](images/projects.png) |
 
----
-
-## ✨ Features
-
-- 📱 **Fully responsive** – works on desktop, tablet, and mobile.
-- 🎨 **Modern aesthetic** – clean typography, subtle animations, and warm earth‑tone palette.
-- 🧩 **Project showcase** – grid layout with live demo & code links (with “Coming Soon” placeholders).
-- ⚡ **Interactive elements** – smooth scrolling, skill‑bar animation, active nav highlighting.
-- 🧭 **Easy navigation** – fixed header with mobile hamburger menu.
-- 📬 **Contact form** – styled, ready for backend integration.
+*If images don't appear, verify the filenames in your `images/` folder match `homepage.png` and `projects.png` exactly (case‑sensitive).*
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Technologies Used
 
-| Technology | Usage |
-|------------|-------|
-| **HTML5** | Semantic structure |
-| **CSS3** | Custom styling + modular `style2.css` |
-| **JavaScript** | Interactivity (menu toggle, smooth scroll, skill animation, form handling) |
-| **Font Awesome** | Icons |
-| **GitHub Pages** | Hosting |
+- ✅ **HTML5** – semantic structure
+- ✅ **CSS3** – custom styling with responsive design
+- ✅ **JavaScript (ES6)** – interactivity (menu toggle, smooth scroll, skill bars, form handling)
+- ✅ **Font Awesome** – icons
+- ✅ **GitHub Pages** – hosting
 
 ---
 
 ## 📁 Project Structure
+
+```
+personalportfolio/
+├── index.html              # Main HTML file
+├── portfoliostyle.css      # All styles
+├── portfolioscript.js      # JavaScript interactions
+├── images/                 # Screenshots & assets
+│   ├── homepage.png        # Hero section preview
+│   └── projects.png        # Projects section preview
+└── README.md               # This file
+```
+
+---
+
+## 🚀 How to Run Locally
+
+1. **Clone** the repository:
+   ```bash
+   git clone https://github.com/amardelil/personalportfolio.git
+   ```
+2. Open `index.html` in any modern browser – no build tools required.
+
+---
+
+## 📬 Connect with Me
+
+- **GitHub** – [amardelil](https://github.com/amardelil)
+- **Telegram** – [@amardelil](https://t.me/+251992156362)
+- **Email** – programmeramardelil21@gmail.com
+
+---
+
+## 📄 License
+
+This project is open‑source and available under the [MIT License](LICENSE).
+
+---
+
+*Built with ❤️ by Amar Delil*

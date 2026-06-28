@@ -1,8 +1,5 @@
 # ✦ Amar Delil – Personal Portfolio
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/amardelil/personalportfolio)](https://github.com/amardelil/personalportfolio/commits/main)
-[![GitHub repo size](https://img.shields.io/github/repo-size/amardelil/personalportfolio)](https://github.com/amardelil/personalportfolio)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > A modern, fully responsive personal portfolio website built with **HTML5**, **CSS3**, and **vanilla JavaScript**.  
 > Showcases my projects, skills, and contact information with a clean, interactive interface.

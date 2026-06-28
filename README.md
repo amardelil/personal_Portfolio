@@ -1,12 +1,9 @@
-
-
 # ✦ Amar Delil – Personal Portfolio
-
 
 > A modern, fully responsive personal portfolio website built with **HTML5**, **CSS3**, and **vanilla JavaScript**.  
 > Showcases my projects, skills, and contact information with a clean, interactive interface.
 
-🔗 **[View Live Demo →](https://amardelil.github.io/personalportfolio)**
+🔗 **[View Live Demo](https://amardelli.github.io/personal-portfolio/)**
 
 ---
 
@@ -20,27 +17,40 @@ Here are some previews of the portfolio:
 
 ---
 
+## ✨ Features
+
+- 📱 **Fully responsive** – works on desktop, tablet, and mobile
+- 🎨 **Modern aesthetic** – clean typography, subtle animations, warm earth-tone palette
+- 🧩 **Project showcase** – grid layout with live demo & code links
+- ⚡ **Interactive elements** – smooth scrolling, skill-bar animation, active nav highlighting
+- 🧭 **Easy navigation** – fixed header with mobile hamburger menu
+- 📬 **Contact form** – styled, ready for backend integration
+
+---
+
 ## 🛠️ Technologies Used
 
-- ✅ **HTML5** – semantic structure
-- ✅ **CSS3** – custom styling with responsive design
-- ✅ **JavaScript (ES6)** – interactivity (menu toggle, smooth scroll, skill bars, form handling)
-- ✅ **Font Awesome** – icons
-- ✅ **GitHub Pages** – hosting
+| Technology | Purpose |
+|------------|---------|
+| **HTML5** | Semantic structure |
+| **CSS3** | Custom styling with responsive design |
+| **JavaScript (ES6)** | Interactivity (menu toggle, smooth scroll, skill bars, form) |
+| **Font Awesome** | Icons |
+| **GitHub Pages** | Hosting |
 
 ---
 
 ## 📁 Project Structure
 
 ```
-personalportfolio/
-├── index.html              # Main HTML file
-├── portfoliostyle.css      # All styles
-├── portfolioscript.js      # JavaScript interactions
-├── images/                 # Screenshots & assets
-│   ├── homepage.png        # Hero section preview
-│   └── projects.png        # Projects section preview
-└── README.md               # This file
+personal-portfolio/
+├── index.html          # Main HTML file
+├── style.css           # Primary styles
+├── script.js           # JavaScript interactions
+├── images/             # Screenshots
+│   ├── homepage.png
+│   └── projects.png
+└── README.md           # This file
 ```
 
 ---
@@ -49,7 +59,7 @@ personalportfolio/
 
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/amardelil/personalportfolio.git
+   git clone https://github.com/amardelli/personal-portfolio.git
    ```
 2. Open `index.html` in any modern browser – no build tools required.
 
@@ -57,15 +67,15 @@ personalportfolio/
 
 ## 📬 Connect with Me
 
-- **GitHub** – [amardelil](https://github.com/amardelil)
-- **Telegram** – [@amardelil](https://t.me/+251992156362)
-- **Email** – programmeramardelil21@gmail.com
+- **GitHub** – [amardelli](https://github.com/amardelli)
+- **Telegram** – [@amardelli](https://t.me/+251992156362)
+- **Email** – programmeramardelli21@gmail.com
 
 ---
 
 ## 📄 License
 
-This project is open‑source and available under the [MIT License](LICENSE).
+This project is open‑source under the [MIT License](LICENSE).
 
 ---
 

@@ -3,7 +3,7 @@
 > A modern, fully responsive personal portfolio website built with **HTML5**, **CSS3**, and **vanilla JavaScript**.  
 > Showcases my projects, skills, and contact information with a clean, interactive interface.
 
-🔗 **[View Live Demo](https://amardelli.github.io/personal-portfolio/)**
+🔗 **[View Live Demo](https://personal-portfolio-noyy7psp4-amardelil1.vercel.app/)**
 
 ---
 

@@ -541,6 +541,19 @@ body {
     .hero-content {
         grid-template-columns: 1fr;
         text-align: center;
+        gap: 2rem;
+    }
+    
+    .hero-text {
+        align-items: center;
+    }
+    
+    .greeting {
+        align-self: center;
+    }
+    
+    .description {
+        max-width: 100%;
     }
     
     .hero-buttons {
@@ -549,6 +562,15 @@ body {
     
     .social-icons {
         justify-content: center;
+    }
+    
+    .hero-image-wrapper {
+        justify-content: center;
+        order: -1; /* Image moves above text on mobile */
+    }
+    
+    .profile-img {
+        max-width: 300px;
     }
     
     .about-content {

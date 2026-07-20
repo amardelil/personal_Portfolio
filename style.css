@@ -74,12 +74,11 @@ body {
 }
 
 /* Hero Section */
-/* Hero Section */
 .portfolio-hero {
-    min-height: 80vh;
+    min-height: 100vh;              /* Changed from 80vh to 100vh for more room */
     display: flex;
     align-items: center;
-    padding: 100px 0 60px;
+    padding: 120px 0 80px;          /* Increased top padding (120px) and bottom padding (80px) */
     background: linear-gradient(135deg, #f9f3e8 0%, #fff 100%);
 }
 
